@@ -1,0 +1,14 @@
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Pares\bin\Debug\net6.0\Pares.exe
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Pares\bin\Debug\net6.0\Pares.deps.json
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Pares\bin\Debug\net6.0\Pares.runtimeconfig.json
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Pares\bin\Debug\net6.0\Pares.dll
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Pares\bin\Debug\net6.0\Pares.pdb
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Pares\obj\Debug\net6.0\Pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Pares\obj\Debug\net6.0\Pares.AssemblyInfoInputs.cache
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Pares\obj\Debug\net6.0\Pares.AssemblyInfo.cs
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Pares\obj\Debug\net6.0\Pares.csproj.CoreCompileInputs.cache
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Pares\obj\Debug\net6.0\Pares.dll
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Pares\obj\Debug\net6.0\refint\Pares.dll
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Pares\obj\Debug\net6.0\Pares.pdb
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Pares\obj\Debug\net6.0\Pares.genruntimeconfig.cache
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Pares\obj\Debug\net6.0\ref\Pares.dll

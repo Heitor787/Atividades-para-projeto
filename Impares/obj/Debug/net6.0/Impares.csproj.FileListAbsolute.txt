@@ -1,0 +1,14 @@
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Impares\bin\Debug\net6.0\Impares.exe
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Impares\bin\Debug\net6.0\Impares.deps.json
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Impares\bin\Debug\net6.0\Impares.runtimeconfig.json
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Impares\bin\Debug\net6.0\Impares.dll
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Impares\bin\Debug\net6.0\Impares.pdb
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Impares\obj\Debug\net6.0\Impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Impares\obj\Debug\net6.0\Impares.AssemblyInfoInputs.cache
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Impares\obj\Debug\net6.0\Impares.AssemblyInfo.cs
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Impares\obj\Debug\net6.0\Impares.csproj.CoreCompileInputs.cache
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Impares\obj\Debug\net6.0\Impares.dll
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Impares\obj\Debug\net6.0\refint\Impares.dll
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Impares\obj\Debug\net6.0\Impares.pdb
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Impares\obj\Debug\net6.0\Impares.genruntimeconfig.cache
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Impares\obj\Debug\net6.0\ref\Impares.dll

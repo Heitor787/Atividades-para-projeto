@@ -1,0 +1,14 @@
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem Crescente\bin\Debug\net6.0\Contagem Crescente.exe
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem Crescente\bin\Debug\net6.0\Contagem Crescente.deps.json
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem Crescente\bin\Debug\net6.0\Contagem Crescente.runtimeconfig.json
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem Crescente\bin\Debug\net6.0\Contagem Crescente.dll
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem Crescente\bin\Debug\net6.0\Contagem Crescente.pdb
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem Crescente\obj\Debug\net6.0\Contagem Crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem Crescente\obj\Debug\net6.0\Contagem Crescente.AssemblyInfoInputs.cache
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem Crescente\obj\Debug\net6.0\Contagem Crescente.AssemblyInfo.cs
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem Crescente\obj\Debug\net6.0\Contagem Crescente.csproj.CoreCompileInputs.cache
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem Crescente\obj\Debug\net6.0\Contagem Crescente.dll
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem Crescente\obj\Debug\net6.0\refint\Contagem Crescente.dll
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem Crescente\obj\Debug\net6.0\Contagem Crescente.pdb
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem Crescente\obj\Debug\net6.0\Contagem Crescente.genruntimeconfig.cache
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem Crescente\obj\Debug\net6.0\ref\Contagem Crescente.dll

@@ -1,0 +1,14 @@
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Multiplicação sem o termo\bin\Debug\net6.0\Multiplicação sem o termo.exe
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Multiplicação sem o termo\bin\Debug\net6.0\Multiplicação sem o termo.deps.json
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Multiplicação sem o termo\bin\Debug\net6.0\Multiplicação sem o termo.runtimeconfig.json
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Multiplicação sem o termo\bin\Debug\net6.0\Multiplicação sem o termo.dll
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Multiplicação sem o termo\bin\Debug\net6.0\Multiplicação sem o termo.pdb
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Multiplicação sem o termo\obj\Debug\net6.0\Multiplicação sem o termo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Multiplicação sem o termo\obj\Debug\net6.0\Multiplicação sem o termo.AssemblyInfoInputs.cache
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Multiplicação sem o termo\obj\Debug\net6.0\Multiplicação sem o termo.AssemblyInfo.cs
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Multiplicação sem o termo\obj\Debug\net6.0\Multiplicação sem o termo.csproj.CoreCompileInputs.cache
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Multiplicação sem o termo\obj\Debug\net6.0\Multiplicação sem o termo.dll
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Multiplicação sem o termo\obj\Debug\net6.0\refint\Multiplicação sem o termo.dll
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Multiplicação sem o termo\obj\Debug\net6.0\Multiplicação sem o termo.pdb
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Multiplicação sem o termo\obj\Debug\net6.0\Multiplicação sem o termo.genruntimeconfig.cache
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Multiplicação sem o termo\obj\Debug\net6.0\ref\Multiplicação sem o termo.dll

@@ -1,0 +1,14 @@
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem regressiva\bin\Debug\net6.0\Contagem regressiva.exe
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem regressiva\bin\Debug\net6.0\Contagem regressiva.deps.json
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem regressiva\bin\Debug\net6.0\Contagem regressiva.runtimeconfig.json
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem regressiva\bin\Debug\net6.0\Contagem regressiva.dll
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem regressiva\bin\Debug\net6.0\Contagem regressiva.pdb
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem regressiva\obj\Debug\net6.0\Contagem regressiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem regressiva\obj\Debug\net6.0\Contagem regressiva.AssemblyInfoInputs.cache
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem regressiva\obj\Debug\net6.0\Contagem regressiva.AssemblyInfo.cs
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem regressiva\obj\Debug\net6.0\Contagem regressiva.csproj.CoreCompileInputs.cache
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem regressiva\obj\Debug\net6.0\Contagem regressiva.dll
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem regressiva\obj\Debug\net6.0\refint\Contagem regressiva.dll
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem regressiva\obj\Debug\net6.0\Contagem regressiva.pdb
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem regressiva\obj\Debug\net6.0\Contagem regressiva.genruntimeconfig.cache
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Contagem regressiva\obj\Debug\net6.0\ref\Contagem regressiva.dll

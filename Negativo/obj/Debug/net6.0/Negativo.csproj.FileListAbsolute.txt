@@ -1,0 +1,14 @@
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Negativo\bin\Debug\net6.0\Negativo.exe
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Negativo\bin\Debug\net6.0\Negativo.deps.json
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Negativo\bin\Debug\net6.0\Negativo.runtimeconfig.json
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Negativo\bin\Debug\net6.0\Negativo.dll
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Negativo\bin\Debug\net6.0\Negativo.pdb
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Negativo\obj\Debug\net6.0\Negativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Negativo\obj\Debug\net6.0\Negativo.AssemblyInfoInputs.cache
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Negativo\obj\Debug\net6.0\Negativo.AssemblyInfo.cs
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Negativo\obj\Debug\net6.0\Negativo.csproj.CoreCompileInputs.cache
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Negativo\obj\Debug\net6.0\Negativo.dll
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Negativo\obj\Debug\net6.0\refint\Negativo.dll
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Negativo\obj\Debug\net6.0\Negativo.pdb
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Negativo\obj\Debug\net6.0\Negativo.genruntimeconfig.cache
+C:\Users\heitor55093656\source\repos\Atividades-para-projeto\Negativo\obj\Debug\net6.0\ref\Negativo.dll
